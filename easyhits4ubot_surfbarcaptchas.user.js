@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Automatically solves surfbar captchas
 // @author       gekkedev
-// @match        http*://*.easyhits4u.com/surf/*
+// @match        https://*.easyhits4u.com/surf/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js
 // @require      https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@1.0.0
